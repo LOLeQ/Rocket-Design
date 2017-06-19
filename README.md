@@ -2,4 +2,4 @@
 
 Web Page was created with CSS3 and HTML5 technology. 
 
-preview: https://loleq.github.io/Rocket-Design/
+preview: https://kedziorghst.github.io/Rocket-Design/
